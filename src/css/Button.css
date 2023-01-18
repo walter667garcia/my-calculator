@@ -1,0 +1,17 @@
+.b-container {
+    border-radius: 25px;
+    text-align: center;
+    font-size: 35px;
+    background-color: #345995;
+    color: #fff;
+  }
+  
+  
+  .operador {
+    background-color: #03cea4;
+    color: #fffbbd;
+  }
+  .operador:hover {
+    background-color: #eac435;;
+    color: #000;
+  }

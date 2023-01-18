@@ -1,0 +1,21 @@
+.b-clear {
+    width: 70%;
+    height: 8vh;
+    margin: auto;
+    font-size: 1.2em;
+    border-radius: 25px;
+    display: flex;
+    flex: 1;
+    background-color: #fb4d3d;
+    margin-top: 8px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    border: 2px solid white;
+    cursor: pointer;
+    color: #fff;
+}
+
+.b-clear:hover {
+    background-color: chartreuse;
+}

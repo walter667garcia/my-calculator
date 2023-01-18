@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200;0,400;1,200&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Code Pro', monospace;
+}
+
+
+.App {
+  background-color: #393d3f;
+  width: 100%;
+  height: 100vh;
+  display: block;
+  padding-top: 7vh;
+}
+
+.title {
+  width: 40%;
+  height: 11vh;
+  background-color: #fb4d3d;
+  color: #fffbbd;
+  margin: auto;
+  text-align: center;
+  border-radius: 25px 30px 10px 50px;
+  font-size: 30px;
+}
+
+.content {
+  width: 35%;
+  height: 80vh;
+  background-color: #fffbbd;
+  margin: auto;
+  border-radius: 15px 15px 15px 15px;
+  display: block;
+  padding: 2vh 0vh 0vh 0vh;
+  border:5px solid #ffff;
+  cursor: pointer;
+
+}
+
+
+.button {
+  width: 80%;
+  margin: auto;
+  height: 50vh;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr;
+  grid-row: inherit;
+  gap: 20px;
+  padding: 10px;
+
+}
+
+
+
